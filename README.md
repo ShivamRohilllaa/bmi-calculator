@@ -15,10 +15,9 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
 # Splash Screen Concept
-
-![image](https://github.com/user-attachments/assets/328106e0-4b38-49f4-b1e4-397bb2dad01c)
+<img width="330" alt="Screenshot 2025-05-22 at 11 10 08 AM" src="https://github.com/user-attachments/assets/9653b5cf-364a-43c6-9b7c-a0b80086ebd0" />
 
 #Calculator Interface
-![image](https://github.com/user-attachments/assets/6031867d-a764-4086-8ba5-639cf1e4692a)
+<img width="333" alt="Screenshot 2025-05-22 at 11 09 43 AM" src="https://github.com/user-attachments/assets/ee6d9335-382b-4159-b50b-af6ba5f86d4c" />
+
